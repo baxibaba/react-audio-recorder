@@ -4,10 +4,6 @@
   "description": "This is a simple audio recorder package for react application using the javascript Web Audio API.",
   "author": "baxibaba",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/baxibaba/react-audio-recorder.git"
-  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
